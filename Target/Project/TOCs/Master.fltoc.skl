@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="砻קยด1ตว融" Link="/Content/Front Matter/Cover.htm" StartChapter="true" PageLayout="/Content/Resources/PageLayouts/PolicyGuide.flpgl" PageType="title" PageNumber="1" PageNumberReset="continue" StartSection="false">
+        <TocEntry Title="砻קยด2ตว融" Link="/Content/Front Matter/Table of Contents.htm" />
+    </TocEntry>
+    <TocEntry Title="砻קยด3ตว融" Link="/Content/Introduction.htm" />
+    <TocEntry Title="砻קยด4ตว融" Link="/Content/How To Use This Template/How To Use Template.htm">
+    </TocEntry>
+    <TocEntry Title="砻קยด5ตว融">
+        <TocEntry Title="砻קยด6ตว融" Link="/Content/Sample Policies/General IT Policies.htm" />
+        <TocEntry Title="砻קยด7ตว融" Link="/Content/Sample Policies/Email Policy.htm" />
+        <TocEntry Title="砻קยด8ตว融" Link="/Content/Sample Policies/Reporting Misconduct.htm" />
+    </TocEntry>
+    <TocEntry Title="砻קยด9ตว融" Link="/Content/Index.htm" />
+</CatapultToc>

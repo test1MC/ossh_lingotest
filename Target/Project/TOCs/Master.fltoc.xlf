@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Master.fltoc"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-fltoc"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="Master.fltoc.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">9</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2"
+        tool-name="Lingo"
+        tool-version="11.1.7485.16653"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Front Matter</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Front Matter</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Table of Contents</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Table of Contents</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Introduction</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Introduction</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>How To Use This Template</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">How To Use This Template</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Sample Policies</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Sample Policies</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>General IT Policies</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">General IT Policies</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Email Policy</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Email Policy</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Reporting Misconduct</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Reporting Misconduct</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-toc-entry-title"
+        phase-name="pretrans"><source>Index</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="Title">Index</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

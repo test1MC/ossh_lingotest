@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap NeedsRefreshCorrection="false">
+    <Entry Status="Untranslated">
+        <Key>Alcohol</Key>
+        <OldValue>Alcohol</OldValue>
+        <NewValue>砻קยด1ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>automatically</Key>
+        <OldValue>automatically</OldValue>
+        <NewValue>砻קยด2ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Bribery</Key>
+        <OldValue>Bribery</OldValue>
+        <NewValue>砻קยด3ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Corruption</Key>
+        <OldValue>Corruption</OldValue>
+        <NewValue>砻קยด4ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Discrimination</Key>
+        <OldValue>Discrimination</OldValue>
+        <NewValue>砻קยด5ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Drugs</Key>
+        <OldValue>Drugs</OldValue>
+        <NewValue>砻קยด6ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>illegal use of</Key>
+        <OldValue>illegal use of</OldValue>
+        <NewValue>砻קยด7ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Email</Key>
+        <OldValue>Email</OldValue>
+        <NewValue>砻קยด8ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>index</Key>
+        <OldValue>index</OldValue>
+        <NewValue>砻קยด9ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>IT</Key>
+        <OldValue>IT</OldValue>
+        <NewValue>砻קยด10ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>email</Key>
+        <OldValue>email</OldValue>
+        <NewValue>砻קยด11ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>general</Key>
+        <OldValue>general</OldValue>
+        <NewValue>砻קยด12ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Misconduct</Key>
+        <OldValue>Misconduct</OldValue>
+        <NewValue>砻קยด13ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>options</Key>
+        <OldValue>options</OldValue>
+        <NewValue>砻קยด14ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Sexual harassment</Key>
+        <OldValue>Sexual harassment</OldValue>
+        <NewValue>砻קยด15ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Theft</Key>
+        <OldValue>Theft</OldValue>
+        <NewValue>砻קยด16ตว融</NewValue>
+    </Entry>
+</StringMap>

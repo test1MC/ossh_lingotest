@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Alcohol</Key>
+  <OldValue>Alcohol</OldValue>
+  <NewValue>Alcohol</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>automatically</Key>
+  <OldValue>automatically</OldValue>
+  <NewValue>automatically</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Bribery</Key>
+  <OldValue>Bribery</OldValue>
+  <NewValue>Bribery</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Corruption</Key>
+  <OldValue>Corruption</OldValue>
+  <NewValue>Corruption</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Discrimination</Key>
+  <OldValue>Discrimination</OldValue>
+  <NewValue>Discrimination</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Drugs</Key>
+  <OldValue>Drugs</OldValue>
+  <NewValue>Drugs</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>illegal use of</Key>
+  <OldValue>illegal use of</OldValue>
+  <NewValue>illegal use of</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Email</Key>
+  <OldValue>Email</OldValue>
+  <NewValue>Email</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>index</Key>
+  <OldValue>index</OldValue>
+  <NewValue>index</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>IT</Key>
+  <OldValue>IT</OldValue>
+  <NewValue>IT</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>email</Key>
+  <OldValue>email</OldValue>
+  <NewValue>email</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>general</Key>
+  <OldValue>general</OldValue>
+  <NewValue>general</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Misconduct</Key>
+  <OldValue>Misconduct</OldValue>
+  <NewValue>Misconduct</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>options</Key>
+  <OldValue>options</OldValue>
+  <NewValue>options</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Sexual harassment</Key>
+  <OldValue>Sexual harassment</OldValue>
+  <NewValue>Sexual harassment</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Theft</Key>
+  <OldValue>Theft</OldValue>
+  <NewValue>Theft</NewValue>
+</Entry>
+</StringMap>
